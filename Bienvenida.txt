@@ -1,0 +1,15 @@
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.*;
+
+public class Bienvenida extends JFrame implements ActionListener {
+private JLabel Imagen_Logo, Titulo, Ingresar_Nombre, Derechos;
+private JTextField TextField1;
+private JButton Boton_Ingresar;
+
+
+public Bienvenida() {
+   Imagen_Logo = new JLabel();
+ }
+
+}
