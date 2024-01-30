@@ -21,6 +21,7 @@ public class Bienvenida extends JFrame implements ActionListener {
    add(Logo);
   
    // JLabel//
+   // Este es el comentario de marvin
    Titulo = new JLabel("Sistema de Control Vacacional");
    Titulo.setBounds(35,135,300,30);
    Titulo.setFont(new Font("Roboto", 1, 18));
